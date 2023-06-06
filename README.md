@@ -7,8 +7,8 @@ API used for list of quotes: https://type.fit/api/quotes
 
 twitter documentation: https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
 # Built With
-HTML
-CSS
-JavaScript
-# Live Version
-https://AmiraliEsi83.github.io/randomQuote/
+.HTML
+.CSS
+.JavaScript
+# Quote Generator
+![Screenshot 2023-06-06 at 12 10 02 PM](https://github.com/AmiraliEsi83/randomQuote/assets/112820902/3c0f7d7f-9db0-4214-a141-aa4c2320cbd4)
