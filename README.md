@@ -10,5 +10,4 @@ twitter documentation: https://developer.twitter.com/en/docs/twitter-for-website
 .HTML
 .CSS
 .JavaScript
-# Quote Generator
-![Screenshot 2023-06-06 at 12 10 02 PM](https://github.com/AmiraliEsi83/randomQuote/assets/112820902/3c0f7d7f-9db0-4214-a141-aa4c2320cbd4)
+# Live Server: https://amiraliesi83.github.io/randomQuote/
