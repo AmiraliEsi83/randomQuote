@@ -10,4 +10,6 @@ twitter documentation: https://developer.twitter.com/en/docs/twitter-for-website
 .HTML
 .CSS
 .JavaScript
-# Live Server: https://amiraliesi83.github.io/randomQuote/
+## Live Project
+
+My version [here](https://amiraliesi83.github.io/Infinite-Sneakers/](https://amiraliesi83.github.io/randomQuote/)
