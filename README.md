@@ -12,4 +12,4 @@ twitter documentation: https://developer.twitter.com/en/docs/twitter-for-website
 .JavaScript
 ## Live Project
 
-My version [here](https://amiraliesi83.github.io/Infinite-Sneakers/](https://amiraliesi83.github.io/randomQuote/)
+My version [here](https://amiraliesi83.github.io/randomQuote/)
